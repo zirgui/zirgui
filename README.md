@@ -1,7 +1,7 @@
 # David Amorim
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia e desenvolvimento.
+Sou apaixonado por tecnologia e desenvolvimento.<br/>
 Front-End Developer|ReactJs|React-Native :computer:
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-DavidAmorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviamorin19/)](https://www.linkedin.com/in/daviamorin19/) 
 | 
